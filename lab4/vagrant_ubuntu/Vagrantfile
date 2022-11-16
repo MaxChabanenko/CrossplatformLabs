@@ -1,0 +1,33 @@
+Vagrant.configure("2") do |config|
+
+  config.vm.box = 'bento/ubuntu-18.04'
+
+
+  config.vm.box_check_update = false
+  config.ssh.insert_key = false
+  
+  config.vm.provider "virtualbox" do |vb|
+  vb.name = "ubuntu-local"
+  vb.memory = 2048
+  vb.cpus = 1
+  end
+  
+  config.vm.provision "shell", inline: "wget https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb"
+  config.vm.provision "shell", inline: "sudo dpkg -i packages-microsoft-prod.deb"
+  config.vm.provision "shell", inline: "rm packages-microsoft-prod.deb"
+    
+  config.vm.provision "shell", inline: "sudo apt-get update"
+  config.vm.provision "shell", inline: "sudo apt-get install -y apt-transport-https"
+  config.vm.provision "shell", inline: "sudo apt-get update"
+  config.vm.provision "shell", inline: "sudo apt-get install -y dotnet-sdk-6.0"
+  
+  #config.vm.provision "shell", inline: "dotnet nuget add source http://192.168.56.1:5000/Baget/v3/index.json"
+  #config.vm.provision "shell", inline: "dotnet nuget add source http://192.168.0.104:5000/Baget/v3/index.json"
+  #config.vm.provision "shell", inline: "dotnet nuget add source http://172.22.0.1:5000/Baget/v3/index.json"
+
+  #config.vm.provision "shell", inline: "dotnet tool install --global mChabanenko --version 1.0.0 --ignore-failed-sources"
+
+  
+  config.vm.provision "shell", inline: "Lab4 version"
+
+end
