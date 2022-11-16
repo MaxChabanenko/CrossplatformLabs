@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Lab4</id>
+    <version>1.0.0</version>
+    <authors>lab4</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab1.exe" target="tools\net6.0\any\lab1.exe" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab2.exe" target="tools\net6.0\any\lab2.exe" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab3.exe" target="tools\net6.0\any\lab3.exe" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab1.deps.json" target="tools\net6.0\any\lab1.deps.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab1.runtimeconfig.json" target="tools\net6.0\any\lab1.runtimeconfig.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab2.deps.json" target="tools\net6.0\any\lab2.deps.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab2.runtimeconfig.json" target="tools\net6.0\any\lab2.runtimeconfig.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab3.deps.json" target="tools\net6.0\any\lab3.deps.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab3.runtimeconfig.json" target="tools\net6.0\any\lab3.runtimeconfig.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab4.dll" target="tools\net6.0\any\lab4.dll" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab4.deps.json" target="tools\net6.0\any\lab4.deps.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab4.runtimeconfig.json" target="tools\net6.0\any\lab4.runtimeconfig.json" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab4.pdb" target="tools\net6.0\any\lab4.pdb" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net6.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab1.dll" target="tools\net6.0\any\lab1.dll" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab2.dll" target="tools\net6.0\any\lab2.dll" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab3.dll" target="tools\net6.0\any\lab3.dll" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab1.pdb" target="tools\net6.0\any\lab1.pdb" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab2.pdb" target="tools\net6.0\any\lab2.pdb" />
+    <file src="C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab4\lab4\bin\Release\net6.0\publish\lab3.pdb" target="tools\net6.0\any\lab3.pdb" />
+  </files>
+</package>

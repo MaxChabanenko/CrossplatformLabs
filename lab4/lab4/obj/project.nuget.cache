@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D88+NyV7C6xXnkK0Pebz/UXVOcb7b+gnXOeDDqfU1mYuhIAtz3f33c4nAdZPbTEetSHKvA9/Yrwvh+LyNlPbvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maksi\\Desktop\\ipz41\\crossPlatform\\lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksi\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\Maksi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
