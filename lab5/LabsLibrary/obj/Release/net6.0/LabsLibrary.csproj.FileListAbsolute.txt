@@ -1,0 +1,12 @@
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\bin\Release\net6.0\LabsLibrary.deps.json
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\bin\Release\net6.0\LabsLibrary.dll
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\bin\Release\net6.0\LabsLibrary.pdb
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.csproj.AssemblyReference.cache
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.AssemblyInfoInputs.cache
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.AssemblyInfo.cs
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.dll
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\refint\LabsLibrary.dll
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\LabsLibrary.pdb
+C:\Users\Maksi\Desktop\ipz41\crossPlatform\lab5\LabsLibrary\obj\Release\net6.0\ref\LabsLibrary.dll
